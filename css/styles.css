@@ -1,11 +1,6 @@
-h2.introduction {
-  color: blue;
-}
-p.introduction {
-  color: red;
-}
-img.introduction {
-  align-content: center;
+.introduction {
+color: red;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body {
   text-align: center;
